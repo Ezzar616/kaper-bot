@@ -4,8 +4,7 @@ global.mods = JSON.parse(fs.readFileSync('./src/moderator.json')) // Want some h
 global.thumbt = global.img
 global.fsx = 999999999999
 global.kontak = [
-['6282146092695', 'AhmdLui', 'AhmdLui', 'ayonimasangat@gmail.com', true],
-['6289655134392', 'Rika', 'Rika❤️', 'Nothing!', true]
+['6287853163532', 'Ezzar', 'Aliezzar', 'aliezzar42@gmail.com', true]
 
 ]
 global.APIs = { // API Prefix
@@ -37,23 +36,23 @@ global.APIKeys = { // APIKey Here
   'https://leyscoders-api.herokuapp.com': 'dappakntlll'
 }
 
-global.WM = '𝑴𝒚𝑩𝒐𝒕-𝑴𝒖𝒍𝒕𝒊 𝑫𝒆𝒗𝒊𝒄𝒆 𝑩𝒚 Kami-sama'
+global.WM = 'Cyber Bot By Ezzar'
 global.linkgc = 'https://chat.whatsapp.com/CnQV9lNcHuIENb8SQ9CaYP'
 global.linkig = 'https://www.instagram.com/ahmdlui'
 global.deslink = ''
 global.titlink = 'Folllow me on Instagram'
-global.bodlink = '@ahmdlui'
+global.bodlink = '@ezzar'
 
 global.wait = '_*𝐬𝐞𝐝𝐚𝐧𝐠 𝐝𝐢 𝐩𝐫𝐨𝐬𝐞𝐬 ...*_'
 global.eror = '_*мααƒ ѕєяνєя тι∂αк ѕтαвιℓ..*_'
 
 //========Url Template Buttons==========//
 global.dtu = '𝑭𝒐𝒍𝒍𝒐𝒘'
-global.urlnya = "https://www.instagram.com/ahmdlui"
+global.urlnya = "https://www.instagram.com/aliezzar42"
 
 //============= callButtons ============//
 global.dtc = '𝒄𝒂𝒍𝒍 𝒐𝒘𝒏𝒆𝒓'
-global.phn = '+62 895-3362-82144'
+global.phn = '+62 878-5316-3532'
 
 //========== Tampilan Bot =============//
 global.sa = '╭─'
@@ -77,7 +76,7 @@ global.thumbnailUrl = [
 //============= Games ================//
 global.benar = '_*Benar✅*_'
 global.salah = '_*Salah❌*_'
-global.dikit = "dikit lagi, semangat ya :')"
+global.dikit = "dikit lagi, semangat ya 🥵😖"
 
 global.multiplier = 100 // The higher, The harder levelup
 
