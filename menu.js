@@ -7,7 +7,7 @@ let jimp = require('jimp')
 let PhoneNumber = require('awesome-phonenumber')
 const defaultMenu = {
   before: `
-┌─〔 %me 〕
+┌─〔 Cyber Botz 〕
 ├ *${ucapan()} %name*
 │
 ├ Tersisa *%limit Limit*
