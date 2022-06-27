@@ -8,7 +8,7 @@ let PhoneNumber = require('awesome-phonenumber')
 const defaultMenu = {
   before: `
 ╭─────═[ *INFO PENGGUNA* ]═─────⋆
-│╭───────────────···
+│╭───────────────··· Cyber Bot
 ┴│▸ *Name:* %name
 ⬡│▸ *Limit:* %limit
 ⬡│▸ *Age:* %umur
@@ -253,7 +253,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
       const fkontak = { key: {participant: `0@s.whatsapp.net`, ...(m.chat ? { remoteJid: `status@broadcast` } : {}) }, message: { 'contactMessage': { 'displayName': `${name}`, 'vcard': `BEGIN:VCARD\nVERSION:3.0\nN:XL;${wm},;;;\nFN:${wm},\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabell:Ponsel\nEND:VCARD`, 'jpegThumbnail': require('fs').readFileSync('./src/logo.jpg'), thumbnail: require('fs').readFileSync('./src/logo.jpg'),sendEphemeral: true}}}
       const sections = [
       {
-        title: 'Syg Rika ❤️',
+        title: 'Ezzar',
         rows: [
           { title: 'Semua Perintah', rowId: `${_p + command} all` },
           { title: 'Game', rowId: `${_p + command} game` },
