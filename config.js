@@ -37,8 +37,8 @@ global.APIKeys = { // APIKey Here
 }
 
 global.WM = 'Cyber Bot By Ezzar'
-global.linkgc = 'https://chat.whatsapp.com/CnQV9lNcHuIENb8SQ9CaYP'
-global.linkig = 'https://www.instagram.com/ahmdlui'
+global.linkgc = 'https://chat.whatsapp.com/GEr42qVvUax6fk1CRATJ4s'
+global.linkig = 'https://www.instagram.com/aliezzar42'
 global.deslink = ''
 global.titlink = 'Folllow me on Instagram'
 global.bodlink = '@ezzar'
